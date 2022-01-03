@@ -17,4 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
-git clone https://github.com/sundaqiang/openwrt-packages/tree/master/luci-app-nginx-manager.git package/luci-app-nginx-manager
+git clone https://github.com/sundaqiang/openwrt-packages.git package/openwrt-packages
